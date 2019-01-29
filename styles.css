@@ -187,6 +187,7 @@ header nav ul li a:hover
     height: 270px;
     float: left;
     border-radius: 10px;
+    background-size: contain;
 }
 #possibilities article:first-child
 {
@@ -203,7 +204,8 @@ header nav ul li a:hover
     box-sizing: border-box;
 }
 article h4
-{
+{   
+    color:#777;
     border-bottom:  1px solid #ddd;
     padding-bottom: 20px;
     text-transform: uppercase;
