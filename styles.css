@@ -22,12 +22,19 @@ h2
 }
 h4
 {
+    
     font-size:24px;
-    color:#444;
+    color:white;
 }
 {
     line-height: 20px;
     color:#777;
+}
+h6
+{
+    font-family: 'Crete Round',serif;
+    font-size: 20px;
+    color:#444;
 }
 ul
 {
@@ -86,7 +93,7 @@ header nav ul li a
 }
 header nav ul li a:hover
 {
-    color:#FF7A00;
+    color:#02b8dd;
 }
 
 /* MAIN IMAGE */
@@ -143,23 +150,28 @@ header nav ul li a:hover
 #steps h4
 {
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
 }
 #steps p
 {
-    margin-bottom: 
+     
 }
 #step-1
 {
-    background: url('images/steps-icon-1.png') no-repeat top center;
+    background: url('images/entree.jpg') no-repeat top center;
+    background-size: contain;
+    
 }
 #step-2
 {
-    background: url('images/steps-icon-2.png') no-repeat top center;
+    background: url('images/plats.jpeg') no-repeat top center;
+    background-size: contain;
+    
 }
 #step-3
 {
-    background: url('images/steps-icon-3.png') no-repeat top center;
+    background: url('images/dessert.jpg') no-repeat top center;
+    background-size: contain;
 }
 
 /* POSSIBILITIES  */
