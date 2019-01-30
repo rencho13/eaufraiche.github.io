@@ -8,6 +8,7 @@ body
 {
     font-family: Arial,sans-serif;
     font-size: 15px;
+    
 }
 h1
 {
@@ -101,8 +102,9 @@ header nav ul li a:hover
 #main-image
 {
     height:550px;
-    background: url('images/main.jpg')center;
+    background: url('images/main.jpg')center no-repeat;
     background-size: contain;
+    
     
 }
 
