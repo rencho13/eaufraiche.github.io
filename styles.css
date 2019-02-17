@@ -198,6 +198,18 @@ header nav ul li a:hover
 {
     margin-right: 20px;
 }
+
+.img1
+{
+    background-image: url(images/article-image-1.jpg);
+    background-repeat:no-repeat;
+}
+
+.img2
+
+{   background-image: url(images/article-image-2.jpg);
+    background-repeat:no-repea
+}
 .overlay
 {
     background: rgba(255,255,255, 0.95);
